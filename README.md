@@ -11,9 +11,3 @@ vishnu rangan.k
 yugendran
 
 vignesh
-
-
-## Demo Link:
-uploaded in our youtube channel
-
-https://youtu.be/CtoMp2p1Vj8
